@@ -1,0 +1,5 @@
+dft 543 hyt 881
+sty 512 sct 198
+qet 518 jtt 143
+frt 189 sdt 321
+hty 814 ijk 190
